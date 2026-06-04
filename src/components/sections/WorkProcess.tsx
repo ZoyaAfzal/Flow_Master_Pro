@@ -21,7 +21,7 @@ export function WorkProcess() {
             Fixing Your Plumbing the Simple Way
           </h2>
           <img
-            src="https://images.unsplash.com/photo-1581578731548-c64695cc6952?w=700&q=80"
+            src="https://images.pexels.com/photos/32588548/pexels-photo-32588548.jpeg"
             alt="Plumbing inspection in progress"
             className="rounded-3xl shadow-brand mt-10 w-full object-cover aspect-[4/3]"
           />

@@ -82,7 +82,7 @@ export function HeroSection() {
           <div className="absolute -inset-4 rounded-[2rem] bg-accent/30 blur-2xl" />
           <motion.img
             whileHover={{ scale: 1.02 }}
-            src="https://images.unsplash.com/photo-1621905251189-08b45d6a269e?w=900&q=80"
+            src="https://images.pexels.com/photos/35290675/pexels-photo-35290675.jpeg"
             alt="Licensed plumber repairing a sink"
             className="relative rounded-3xl shadow-brand-lg w-full object-cover aspect-[4/5] transition-transform duration-300"
           />
